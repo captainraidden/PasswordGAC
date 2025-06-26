@@ -12,7 +12,7 @@ A sleek Windows Forms application for generating and checking password strength.
 
 ## 📷 Screenshot
 
-> *(Insert a screenshot here if you want)*
+> ![PasswordGAC Screenshot](https://github.com/captainraidden/PasswordGAC/blob/main/Screenshot3.png?raw=true)
 
 ## 📝 Disclaimer
 
