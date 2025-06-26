@@ -6,9 +6,9 @@ A sleek Windows Forms application for generating and checking password strength.
 
 - Password strength checker
 - Secure password generator
-- Update checker (connected to online PHP API)
+- Update checker
 - Clipboard copy & input clear buttons
-- Clean Google-like UI
+- Clean UI
 
 ## 📷 Screenshot
 
